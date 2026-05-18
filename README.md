@@ -1,6 +1,7 @@
 # SCT_DA_1
+SkillCraft Technology - Task 1
 # Task 1 - Excel Sales Dashboard
-(SkillCraft Technology - Task 1)
+
 This project is part of my Data Analyst Internship at SkillCraft Technology.
 ## Objective
 Analyze and visualize Superstore Sales Data
