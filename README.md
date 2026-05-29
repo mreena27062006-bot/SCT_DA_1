@@ -52,4 +52,20 @@ using Microsoft Excel
 5. **Consumer segment** drives over **50% of total revenue** ($1,161,401 out of $2,297,201)
 
 ---
+## 📸 Output Screenshots
+
+### 📊 Dashboard
+![Dashboard](assets/Dashboard.png)
+
+### 🛒 Sales by Category Chart
+![Sales by Category](assets/Sales_by_category_chart.png)
+
+### 📈 Sales Trend Chart
+![Sales Trend](assets/sales_trend_chart.png)
+
+### 💰 Profit by Category Chart
+![Profit by Category](assets/profit_by_category_chart.png)
+
+### 🎨 Conditional Formatting View
+![Conditional Formatting](assets/Conditional_formatting_view.png)
 *Submitted as part of SkillCraft Technology Data Analyst Internship — Task 1 of 4*
