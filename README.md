@@ -57,15 +57,17 @@ using Microsoft Excel
 ### 📊 Dashboard
 ![Dashboard](assets/Dashboard.png)
 
-### 🛒 Sales by Category Chart
-![Sales by Category](assets/Sales_by_category_chart.png)
-
-### 📈 Sales Trend Chart
-![Sales Trend](assets/sales_trend_chart.png)
+### 🎨 Conditional Formatting View
+![Conditional Formatting](assets/Conditional_formatting_view.png)
 
 ### 💰 Profit by Category Chart
 ![Profit by Category](assets/profit_by_category_chart.png)
 
-### 🎨 Conditional Formatting View
-![Conditional Formatting](assets/Conditional_formatting_view.png)
+### 📈 Sales Trend Chart
+![Sales Trend](assets/sales_trend_chart.png)
+
+### 🛒 Sales by Category Chart
+![Sales by Category](assets/Sales_by_category_chart.png)
+
+
 *Submitted as part of SkillCraft Technology Data Analyst Internship — Task 1 of 4*
